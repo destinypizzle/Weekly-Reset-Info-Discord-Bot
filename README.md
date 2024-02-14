@@ -1,0 +1,1 @@
+# Weekly-Reset-Info-Discord-Bot
